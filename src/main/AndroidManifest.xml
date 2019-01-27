@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.basha.healthapa">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        tools:replace="android:icon"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.MainActivity" />
+        <activity android:name=".Activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.HealthActivity" />
+        <activity android:name=".Activity.DoctorActivity" />
+        <activity android:name=".Activity.HospitalActivity" />
+        <activity android:name=".Activity.EmmergencyActivity" />
+        <activity android:name=".Activity.ChildActivity" />
+        <activity android:name=".Activity.FemaleActivity" />
+        <activity android:name=".Activity.InfoActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HealthApa</string>
+    <string name="splash">\n হাতের  মুঠোয়  সেবা\n দিন রাত ২৪ঘণ্টা </string>
+    <string name="splash1">হাতের  মুঠোয়  সেবা\nদিন রাত ২৪ঘণ্টা</string>
+    <string name="btn_1">স্বাস্থ্য  </string>
+    <string name="btn_2">হাসপাতাল  </string>
+    <string name="btn_3">ডাক্তার  </string>
+    <string name="btn_4">জরুরী তথ্য  </string>
+    <string name="tv_1"> রোগী কে ? </string>
+    <string name="btn_5"> মহিলা </string>
+    <string name="btn_6"> শিশু </string>
+    <string name="tvv_2"> রোগের লক্ষণ </string>
+    <string name="tv_4"> সম্ভাব্য ব্যাধি</string>
+    <string name="tv_3"> ডাক্তার লিস্ট </string>
+    <string name="tv_5">হাসপাতাল লিস্ট </string>
+    <string name="doc">ডাক্তারের তথ্য জানতে ক্লিক করুন</string>
+    <string name="emmer">জরুরী তথ্য জানতে ক্লিক করুন</string>
+    <string name="hos">হাসপাতালের তথ্য জানতে ক্লিক করুন</string>
+    <string name="disease">আপনার রোগ জানতে ক্লিক করুন</string>
+    <string name="click_1">মহিলার রোগ এবং রোগের উপসর্গ জানুন</string>
+    <string name="click_2">শিশুর রোগ এবং রোগের উপসর্গ জানুন</string>
+
+</resources>
